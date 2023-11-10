@@ -6,8 +6,6 @@ Com essa solução, você consegue instalar:
 
 ## 💽 Instalação
 
-Não são muitos passos para utilizar essa solução, mas é importante prestar atenção em cada detalhe para evitar ter dor de cabeça por eventuais problemas.
-
 <p>Primeira instalação na minha VPS:</p>
 
 ```
