@@ -1,10 +1,10 @@
-## ✨ Ferramentas
+## Ferramentas
 
 Com essa solução, você consegue instalar:
 
 - <b>Typebot</b>
 
-## 💽 Instalação
+## Instalação
 
 <p>Primeira instalação na minha VPS:</p>
 

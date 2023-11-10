@@ -70,7 +70,7 @@ echo -e "\e[32m\e[0m"
 echo -e "\e[32m\e[0m"                                                                           
 echo "Digite o NUMERO da opção desejada:"
 echo ""
-echo -e "${amarelo}[3]${reset} - ${branco}Typebot${reset}"
+echo -e "${amarelo}[1]${reset} - ${branco}Typebot${reset}"
 
 echo -e "${amarelo}[9]${reset} - ${branco}Sair${reset}"
 echo ""
