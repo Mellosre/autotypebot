@@ -70,8 +70,6 @@ echo -e "\e[32m\e[0m"
 echo -e "\e[32m\e[0m"                                                                           
 echo "Digite o NUMERO da opção desejada:"
 echo ""
-echo -e "${amarelo}[1]${reset} - ${branco}Chatwoot${reset}"
-echo -e "${amarelo}[2]${reset} - ${branco}Evolution API${reset}"
 echo -e "${amarelo}[3]${reset} - ${branco}Typebot${reset}"
 
 echo -e "${amarelo}[9]${reset} - ${branco}Sair${reset}"
@@ -87,17 +85,10 @@ read -p "Escolha uma opção: " choice
 #
 
 case $choice in
+    
     1)
         clear
-        cd && cd SetupInstall && chmod +x chatwoot.sh && ./chatwoot.sh
-        ;;
-    2)
-        clear
-        cd && cd SetupInstall && chmod +x evolutionapi.sh && ./evolutionapi.sh
-        ;;
-    3)
-        clear
-        cd && cd SetupInstall && chmod +x typebot.sh && ./typebot.sh
+        cd && cd SetupInstallTypebot && chmod +x typebot.sh && ./typebot.sh
         ;;
    
 
