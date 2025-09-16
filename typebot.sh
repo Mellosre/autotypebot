@@ -278,7 +278,7 @@ services:
       - SMTP_USERNAME=$email
       - SMTP_PASSWORD=$senha
       - NEXT_PUBLIC_SMTP_FROM='Suporte Typebot' <$email>
-
+      - DEFAULT_WORKSPACE_PLAN=UNLIMITED
       - S3_ACCESS_KEY=minio
       - S3_SECRET_KEY=minio123
       - S3_BUCKET=typebot
