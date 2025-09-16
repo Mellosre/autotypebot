@@ -208,7 +208,7 @@ clear
 sudo apt update -y
 sudo apt upgrade -y
 
-apt install docker-compose -y
+sudo apt install docker-compose -y
 sudo apt update
 
 sudo apt install nginx -y
