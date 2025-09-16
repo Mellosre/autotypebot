@@ -88,7 +88,7 @@ case $choice in
     
     1)
         clear
-        cd && cd SetupInstallTypebot && chmod +x typebot.sh && ./typebot.sh
+        cd && cd autotypebot && chmod +x typebot.sh && ./typebot.sh
         ;;
    
 
